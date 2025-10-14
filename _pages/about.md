@@ -35,12 +35,8 @@ Python, PyTorch, TensorFlow, TensorFlow Lite, OpenCV, LangChain / LangGraph, Wei
 # Pages on this site
 
 * [CV](/cv) — full résumé and transcripts
-* [Projects](/projects) — code, writeups, and demos
-<!-- * [Publications](/publications) — papers & posters
-* [Talks](/talks) — invited & conference talks -->
 * [Courses](/courses) — teaching & course materials
 * [Experiences](/experiences) — internships, industry, and research positions
-* [Blog](/blog) — notes, experiments, and walkthroughs
 * [Contact](/contact)
 
 # Outside the lab
@@ -48,12 +44,5 @@ Python, PyTorch, TensorFlow, TensorFlow Lite, OpenCV, LangChain / LangGraph, Wei
 I captained my hostel table‑tennis team, serve as Convener of CAIC (department student body), and play the guitar. I enjoy hackathons and have a soft spot for hacky, reproducible engineering demos.
 
 ---
-
-**Want to get in touch?**
-Please replace the contact placeholders below with your preferred links before publishing.
-
-* GitHub: [https://github.com/Toni0704](https://github.com/Toni0704)
-* LinkedIn: [https://www.linkedin.com/in/rishabh-jain-754751251/](https://www.linkedin.com/in/rishabh-jain-754751251/)
-* Email: [rishabh.iitd.am@gmail.com](mailto:rishabh.iitd.am@gmail.com)
 
 *This homepage is a short, narrative snapshot — not a CV. For full details, visit the CV page.*

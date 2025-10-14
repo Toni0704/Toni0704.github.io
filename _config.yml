@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Rishabh Jain / Site Title"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Rishabh Jain"
 description              : &description "Rishabh Jain's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Rishabh Jain"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "B.Tech student @ IIT Delhi | ML × Computational Mechanics | Building ML systems for simulation, inverse design, and physics problems"
   location         : "New Delhi, India"
   employer         : "IIT, Delhi"
   uri              : # URL
