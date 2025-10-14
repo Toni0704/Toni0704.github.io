@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Rishabh Jain — a 4th‑year B.Tech student in Engineering & Computational Mechanics at **IIT Delhi** (CGPA 9.03). I work at the intersection of machine learning and engineering: building ML systems that accelerate simulation, enable inverse design, and make complex physics problems tractable. I'm currently preparing applications for MS programs in ML/AI and Computational Engineering (US / Europe) and am open to research internships and collaborations.
+I am Rishabh Jain — a 4th‑year B.Tech student in Engineering & Computational Mechanics at **IIT Delhi**. I work at the intersection of machine learning and engineering: building ML systems that accelerate simulation, enable inverse design, and make complex physics problems tractable. I'm currently preparing applications for MS programs in ML/AI and Computational Engineering (US / Europe) and am open to research internships and collaborations.
 
 # About
 
@@ -36,8 +36,10 @@ Python, PyTorch, TensorFlow, TensorFlow Lite, OpenCV, LangChain / LangGraph, Wei
 
 * [CV](/cv) — full résumé and transcripts
 * [Projects](/projects) — code, writeups, and demos
-* [Publications](/publications) — papers & posters
-* [Talks](/talks) — invited & conference talks
+<!-- * [Publications](/publications) — papers & posters
+* [Talks](/talks) — invited & conference talks -->
+* [Courses](/courses) — teaching & course materials
+* [Experiences](/experiences) — internships, industry, and research positions
 * [Blog](/blog) — notes, experiments, and walkthroughs
 * [Contact](/contact)
 
