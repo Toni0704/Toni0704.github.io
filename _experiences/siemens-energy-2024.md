@@ -5,7 +5,7 @@ date: 2025-01-01
 author_profile: true
 category: experiences
 employer: "Siemens Energy"
-location: "India"
+location: "Gurgaon, India"
 description: "Surrogate modelling and ML in CFD workflows for gas turbine auxiliaries."
 ---
 
@@ -16,6 +16,9 @@ During this internship, I worked on surrogate modeling and machine learning appl
 - Integrated ML workflows into existing design pipelines
 - Validated model accuracy against high-fidelity simulations
 
-**Materials:**
-- [Internship Report (PDF)](#) *(add link to report in /files/ folder)*
-- [Technical Presentation (PDF)](#) *(add link to slides)*
+**- [Internship Report](files/Internship_report_siemens.pdf)**
+
+**- [Certificate](files/Intern_Letter.pdf)**
+
+
+
