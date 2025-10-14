@@ -16,6 +16,6 @@ During this internship I built a RAG pipeline integrating embeddings, chunking s
 - Developed chunking experiments to optimize retrieval accuracy
 - Evaluated RAG performance using Granite LLMs
 
-**Materials:**
-- [Internship Report](/files/RCA-Final_draft.pdf)
+**Resources:**
+- [Internship Paper](/files/RCA-Final_draft.pdf)
 - [Certificate](/files/Certificate.pdf)
