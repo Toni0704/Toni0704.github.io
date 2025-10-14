@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Rishabh Jain — a 4th‑year B.Tech student in Engineering & Computational Mechanics at **IIT Delhi**. I work at the intersection of machine learning and engineering: building ML systems that accelerate simulation, enable inverse design, and make complex physics problems tractable. I'm currently preparing applications for MS programs in ML/AI and Computational Engineering (US / Europe) and am open to research internships and collaborations.
+I am Rishabh Jain — a 4th‑year B.Tech student in Engineering & Computational Mechanics at the **Indian Institute of Technology, Delhi**. I work at the intersection of machine learning and engineering: building ML systems that accelerate simulation, enable inverse design, and make complex physics problems tractable. I'm currently preparing applications for MS programs in ML/AI and Computational Engineering (US / Europe) and am open to research internships and collaborations.
 
 # About
 
