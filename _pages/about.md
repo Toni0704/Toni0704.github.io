@@ -36,7 +36,7 @@ Python, PyTorch, TensorFlow, TensorFlow Lite, OpenCV, LangChain / LangGraph, Wei
 # Pages on this site
 
 * [CV](/cv) — full résumé and transcripts
-* [Courses](/courses) — teaching & course materials
+* [Courses](/courses) — coursework & projects
 * [Experiences](/experiences) — internships, industry, and research positions
 * [Contact](/contact)
 
@@ -46,4 +46,4 @@ I captained my hostel table‑tennis team, serve as Convener of CAIC (department
 
 ---
 
-*This homepage is a short, narrative snapshot — not a CV. For full details, visit the CV page.*
+<!-- *This homepage is a short, narrative snapshot — not a CV. For full details, visit the CV page.* -->

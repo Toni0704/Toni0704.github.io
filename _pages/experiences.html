@@ -8,6 +8,25 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.experiences reversed %}
-  {% include archive-single.html %}
+  <article class="archive__item">
+    <h2 class="archive__item-title">{{ post.title }}</h2>
+    
+    {% if post.employer or post.location or post.date %}
+    <p class="page__meta">
+      {% if post.employer %}<i class="fas fa-fw fa-building"></i> {{ post.employer }}{% endif %}
+      {% if post.location %} | <i class="fas fa-fw fa-map-marker-alt"></i> {{ post.location }}{% endif %}
+      {% if post.date %} | <i class="fas fa-fw fa-calendar"></i> {{ post.date | date: "%B %Y" }}{% endif %}
+    </p>
+    {% endif %}
+    
+    {% if post.description %}
+    <p class="archive__item-excerpt"><strong>{{ post.description }}</strong></p>
+    {% endif %}
+    
+    <div class="archive__item-body">
+      {{ post.content }}
+    </div>
+    
+    <hr style="margin: 2em 0;">
+  </article>
 {% endfor %}
-
