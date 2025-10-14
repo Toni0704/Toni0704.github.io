@@ -15,10 +15,9 @@ During this internship, I worked on surrogate modeling and machine learning appl
 - Developed surrogate models to replace expensive CFD simulations
 - Integrated ML workflows into existing design pipelines
 - Validated model accuracy against high-fidelity simulations
-
-**- [Internship Report](files/Internship_report_siemens.pdf)**
-
-**- [Certificate](files/Intern_Letter.pdf)**
+**Resources:**
+- [Internship Report](/files/Internship_report_siemens.pdf)
+- [Certificate](/files/Intern_Letter.pdf)
 
 
 

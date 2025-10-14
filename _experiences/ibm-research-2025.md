@@ -17,6 +17,5 @@ During this internship I built a RAG pipeline integrating embeddings, chunking s
 - Evaluated RAG performance using Granite LLMs
 
 **Materials:**
-- [Internship Report (PDF)](#) *(add link to report in /files/ folder)*
-- [Project Presentation (PDF)](#) *(add link to slides)*
-- [Code Repository](https://github.com/username/repo) *(if applicable)*
+- [Internship Report](/files/RCA-Final_draft.pdf)
+- [Certificate](/files/Certificate.pdf)
