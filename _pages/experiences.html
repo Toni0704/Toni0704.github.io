@@ -7,15 +7,36 @@ author_profile: true
 
 {% include base_path %}
 
-## Experience Summary
+<h2>Experience Summary</h2>
 
-| Position | Location | Duration |
-|----------|----------|----------|
-| [IBM Research Internship](#ibm-research) | Gurgaon, India | May–Jul 2025 |
-| [National University of Singapore Internship](#nus-research) | Hybrid | May–Jul 2024 |
-| [Siemens Energy Internship](#siemens-energy) | Gurgaon, India | Dec 2024–Jan 2025 |
+<table>
+  <thead>
+    <tr>
+      <th>Position</th>
+      <th>Location</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#ibm-research">IBM Research Internship</a></td>
+      <td>Gurgaon, India</td>
+      <td>May–Jul 2025</td>
+    </tr>
+    <tr>
+      <td><a href="#nus-research">National University of Singapore Internship</a></td>
+      <td>Hybrid</td>
+      <td>May–Jul 2024</td>
+    </tr>
+    <tr>
+      <td><a href="#siemens-energy">Siemens Energy Internship</a></td>
+      <td>Gurgaon, India</td>
+      <td>Dec 2024–Jan 2025</td>
+    </tr>
+  </tbody>
+</table>
 
----
+<hr style="margin: 2em 0;">
 
 {% for post in site.experiences reversed %}
   <article class="archive__item" id="{% if post.title contains 'IBM' %}ibm-research{% elsif post.title contains 'National University' %}nus-research{% elsif post.title contains 'Siemens' %}siemens-energy{% endif %}">
