@@ -7,8 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+## Experience Summary
+
+| Position | Location | Duration |
+|----------|----------|----------|
+| [IBM Research Internship](#ibm-research) | Gurgaon, India | May–Jul 2025 |
+| [National University of Singapore Internship](#nus-research) | Hybrid | May–Jul 2024 |
+| [Siemens Energy Internship](#siemens-energy) | Gurgaon, India | Dec 2024–Jan 2025 |
+
+---
+
 {% for post in site.experiences reversed %}
-  <article class="archive__item">
+  <article class="archive__item" id="{% if post.title contains 'IBM' %}ibm-research{% elsif post.title contains 'National University' %}nus-research{% elsif post.title contains 'Siemens' %}siemens-energy{% endif %}">
     <h2 class="archive__item-title">{{ post.title }}</h2>
     
     {% if post.employer or post.location or post.date %}
